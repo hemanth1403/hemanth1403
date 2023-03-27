@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hemanthsai826@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17QIhc_1q7sc3esBzU5QK4t9SeDsz4ad3/view?usp=sharing](https://drive.google.com/file/d/17QIhc_1q7sc3esBzU5QK4t9SeDsz4ad3/view?usp=sharing)
+- 📄 Know about my experiences [bit.ly/Hemanth-Resume](bit.ly/Hemanth-Resume)
 
 - ⚡ Fun fact **I am funny.**
 
