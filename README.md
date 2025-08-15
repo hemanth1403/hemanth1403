@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-cowboy-computer-coding-w60pcikl6ieg525n.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth1403&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth1403" /> </p>
 
-- 🔭 I’m currently CSE-AIML **Graduate-2024**
+- 🎓 Master's Student in AI at Northeastern University's Khoury College of Computer Sciences **(Expected Graduation: 2027)**
 
 - 🌱 I’m currently working on **GANS**
 
